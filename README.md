@@ -18,5 +18,5 @@ A lightweight, flicker-free command-line timer written in pure C. It is designed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/abdullahaljehan-me/simple-timer-c.git
+   cd simple-timer-c

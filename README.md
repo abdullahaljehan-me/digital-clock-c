@@ -13,7 +13,6 @@ A lightweight, flicker-free command-line timer written in pure C. It is designed
 ## Prerequisites
 
 - A C compiler: `gcc`, `clang`, or `MinGW` (Windows).
-- `make` (optional, for build automation).
 
 ## Build and Run
 

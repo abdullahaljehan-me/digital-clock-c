@@ -13,13 +13,13 @@ A comprehensive, flicker-free, cross-platform command-line time management suite
 - **Graceful Exit Handling**: Catches `Ctrl+C` signals to safely return to the main menu instead of abruptly crashing.
 - **Zero External Dependencies**: Relies solely on the C Standard Library and native OS APIs.
 
-## Build and Run
-
 ## Prerequisites
 
 To compile and run this game, you need:
 - A C compiler (like `gcc`, `clang`, or `MinGW`).
 - A terminal or command prompt.
+
+## Build and Run
 
 ### Linux / macOS
 ```bash

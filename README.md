@@ -15,8 +15,11 @@ A comprehensive, flicker-free, cross-platform command-line time management suite
 
 ## Build and Run
 
-### Prerequisites
-- A C compiler (GCC, Clang, or MSVC).
+## Prerequisites
+
+To compile and run this game, you need:
+- A C compiler (like `gcc`, `clang`, or `MinGW`).
+- A terminal or command prompt.
 
 ### Linux / macOS
 ```bash

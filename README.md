@@ -32,3 +32,12 @@ gcc -o clock digital_clock.c
 
 # Run
 ./clock
+```
+
+---
+
+<div align="center">
+
+<sub>© 2026 abdullahaljehan-me · Licensed under MIT</sub>
+
+</div>

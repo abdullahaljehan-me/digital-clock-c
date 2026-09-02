@@ -21,11 +21,11 @@ A comprehensive, flicker-free, cross-platform command-line time management suite
 ### Linux / macOS
 ```bash
 # Clone the repository
-git clone https://github.com/abdullahaljehan-me/digital-clock-timer-c.git
-cd digital-clock-timer-c
+git clone https://github.com/abdullahaljehan-me/digital-clock-c.git
+cd digital-clock-c
 
 # Compile
-gcc -o timer digital_clock_timer.c
+gcc -o clock digital_clock.c
 
 # Run
-./timer
+./clock
